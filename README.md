@@ -1,1 +1,1 @@
-# Lukasz-IO2
+1. Łukasz Górski
