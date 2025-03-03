@@ -1,5 +1,5 @@
 1. Sandra Adamiec
-2. Marcin Falkowski
-3. Mikołaj Gładkowski
-4. Łukasz Górski
-   
+2. Jakub Daszkiewicz
+3. Marcin Falkowski
+4. Mikołaj Gładkowski
+5. Łukasz Górski
